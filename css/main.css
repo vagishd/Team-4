@@ -1,31 +1,32 @@
 /*#page-top*/
 /*{*/
-    /*background: #0b2e13;*/
+/*background: #0b2e13;*/
 /*}*/
 
-#mainNav
-{
+#mainNav {
     background: white;
     border: #01B6CE solid 1px;
 }
 
-#page-top
-{
+#page-top {
     background: #01B6CE;
 }
 
-#footerMain
-{
+#footerMain {
     background: #01B6CE;
 }
 
-#sidNav-text , #sidNav-text1
-{
+#sidNav-text, #sidNav-text1 {
     color: white;
 }
 
-#tableHead
-{
+#tableHead {
     background: #01B6CE;
 
+}
+
+@media only screen and (max-width: 987px) {
+    #sidNav-text, #sidNav-text1 {
+        color: black;
+    }
 }
