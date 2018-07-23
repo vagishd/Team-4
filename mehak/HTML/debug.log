@@ -1,0 +1,7 @@
+[0718/001313.532:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0718/001316.470:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0718/223543.004:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0718/223543.023:ERROR:main_dll_loader_win.cc(140)] Failed to load Chrome DLL from C:\Program Files (x86)\Antanna\Application\57.0.2987.98\chrome.dll: The specified module could not be found. (0x7E)
+[0718/231532.448:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0718/231532.462:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0718/231532.471:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
