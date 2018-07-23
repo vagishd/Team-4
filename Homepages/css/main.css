@@ -1,0 +1,51 @@
+/*#page-top*/
+/*{*/
+    /*background: #0b2e13;*/
+/*}*/
+
+#mainNav
+{
+    background: white;
+    border: #01B6CE solid 1px;
+}
+
+
+#footerMain
+{
+    background: #01B6CE;
+}
+
+#sidNav-text , #sidNav-text1
+{
+    color: white;
+}
+
+.colorclass
+{}
+
+
+        td{
+            background-color: white;
+        }
+		
+		#mainNav
+{
+    background: white;
+    border: #01B6CE solid 1px;
+}
+
+
+body.sticky-footer {
+  position:sticky;
+}
+body.sticky-footer .content-wrapper {
+  min-height: calc(100vh - 56px - 56px);
+}
+
+#mainNav .navbar-collapse {
+  overflow: auto;
+  max-height: 75vh;
+}
+#mainNav .navbar-collapse .sidenav-toggler {
+  display: none;
+}
