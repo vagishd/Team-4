@@ -1,0 +1,7 @@
+[0715/181211.909:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0715/181302.446:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0715/181442.759:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0718/181709.278:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0718/181709.435:ERROR:main_dll_loader_win.cc(140)] Failed to load Chrome DLL from C:\Program Files (x86)\Antanna\Application\57.0.2987.98\chrome.dll: The specified module could not be found. (0x7E)
+[0718/212945.113:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0718/212945.129:ERROR:main_dll_loader_win.cc(140)] Failed to load Chrome DLL from C:\Program Files (x86)\Antanna\Application\57.0.2987.98\chrome.dll: The specified module could not be found. (0x7E)
